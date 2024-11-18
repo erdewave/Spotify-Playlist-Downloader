@@ -23,5 +23,8 @@
     <h2>Lisans</h2>
     <p>Bu proje <a href="https://opensource.org/licenses/MIT" target="_blank">MIT Lisansı</a> ile lisanslanmıştır.</p>
     <p>Daha fazla bilgi için <a href="https://pypi.org/project/spotube/" target="_blank">Spotube PyPI sayfasını</a> ziyaret edin.</p>
+    <footer>
+        <p>&copy; 2024 Spotube. Tüm hakları saklıdır.</p>
+    </footer>
 </body>
 </html>
