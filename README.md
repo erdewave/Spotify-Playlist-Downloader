@@ -7,7 +7,7 @@
 <body>
     <h1>Spotify Playlist Downloader</h1>
     <p>
-        <strong>Spotify Playlist Downloader</strong>, uygulaması ile, Spotify'da yer alan Playlist'lerinizde yer alan şarkıları MP3 şeklinde indirebilirsiniz.
+        <strong>Spotify Playlist Downloader</strong>, uygulaması ile Spotify'da bulunan Playlist'lerinizde yer alan şarkıları MP3 şeklinde indirebilirsiniz.
     </p>
     <h2>Kullanım ve Gereksinimler</h2>
     <p>Spotify Playlist Downloader'ı kullanmak adına gerekli bilgiler aşağıda yer almaktadır:</p>
