@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Spotube</h1>
+    <h1>Spotify Playlist Downloader</h1>
     <p>
         <strong>Spotify Playlist Downloader</strong>, , uygulaması ile, Spotify'da yer alan Playlist'lerinizde yer alan şarkıları MP3 şeklinde indirebilirsiniz.
     </p>
