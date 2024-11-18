@@ -9,12 +9,10 @@
     <p>
         <strong>Spotify Playlist Downloader</strong>, , uygulaması ile, Spotify'da yer alan Playlist'lerinizde yer alan şarkıları MP3 şeklinde indirebilirsiniz.
     </p>
-    <h2>Kurulum</h2>
-    <p>Spotube'u kurmak için aşağıdaki komutu kullanabilirsiniz:</p>
-    <pre><code>pip install spotube</code></pre>
-    <h2>Kullanım</h2>
+    <h2>Gereksinimler</h2>
+    <p>Spotify Playlist Downloader'ı kullanmak adına gerekli bilgiler aşağıda yer almaktadır:</p>
     <ol>
-        <li>Spotube'u kurduktan sonra bir Spotify API anahtarı oluşturun.</li>
+        <li>Spotify Playlist Downloader'ı kurduktan sonra bir Spotify API anahtarı oluşturun.</li>
         <li>Uygulamayı başlatın ve API anahtarınızı girerek oturum açın.</li>
         <li>Şarkıları aramaya başlayın ve çalma listelerinizi yönetin!</li>
     </ol>
