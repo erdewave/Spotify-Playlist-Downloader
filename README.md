@@ -16,12 +16,6 @@
         <li>Uygulamayı başlatın ve API anahtarınızı girerek oturum açın.</li>
         <li>Şarkıları aramaya başlayın ve çalma listelerinizi yönetin!</li>
     </ol>
-    <h2>Katkıda Bulunun</h2>
-    <p>
-        Spotube açık kaynaklı bir projedir. Katkıda bulunmak için GitHub sayfasını ziyaret edebilir ve pull request gönderebilirsiniz.
-    </p>
-    <h2>Lisans</h2>
-    <p>Bu proje <a href="https://opensource.org/licenses/MIT" target="_blank">MIT Lisansı</a> ile lisanslanmıştır.</p>
     <p>Daha fazla bilgi için <a href="https://pypi.org/project/spotube/" target="_blank">Spotube PyPI sayfasını</a> ziyaret edin.</p>
     <footer>
         <p>&copy; 2024 Spotube. Tüm hakları saklıdır.</p>
